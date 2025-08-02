@@ -153,10 +153,6 @@ MY_PASSWORD = os.getenv('PASSWORD')
 
 Feel free to fork this project and submit pull requests for improvements.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Disclaimer
 
 This tool is for personal use. Ensure you have permission before sending automated emails to contacts.
